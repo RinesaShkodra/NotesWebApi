@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Rinesa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Rinesa\\.nuget\\packages"
+    ]
+  }
+}
